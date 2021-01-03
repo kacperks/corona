@@ -9,7 +9,6 @@
 
 #include "Rtt_Car.cpp"
 
-
 #if defined(Rtt_WIN_ENV) && defined(_UNICODE)
 #include "WinString.h"
 
